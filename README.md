@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Hernán</h1>
-<h2 align="center">An imaginative front-end developer from Córdoba, Argentina 🧉</h3>
+<h2 align="center">Imaginative front-end developer from Córdoba, Argentina 🧉</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
