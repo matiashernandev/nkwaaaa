@@ -97,6 +97,14 @@
       alt="Mongo"
     />
 </a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
+<img
+      width="48px"
+      height="44px"
+      src="https://svgl.vercel.app/library/graphql.svg"
+      alt="GraphQL"
+    />
+</a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </a>
